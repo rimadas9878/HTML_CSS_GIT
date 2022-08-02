@@ -1,40 +1,45 @@
-# Assignment01-HTML_CSS_GIT
+<h1>Assignment01-HTML_CSS_GIT<h1>
 
-Download the entire Horiseon folder and click on index.html to view the page 
-View the style.css page to view the changes made in css file
+<p>Download the entire Horiseon folder and click on index.html to view the page.</p>
+<p>View the style.css page to view the changes made in css file.</p>
 
-# GIT
-1.Logged into GitHub
-2.Clicked on New
-3.Created a repository "Assignment01-HTML_CSS_GIT"
-4.Clicked on Code and copied the SSH key
-5.Opened Terminal and using cd command Navigated to the path where I wanted to clone the repository
-6.Then typed, "git clone git@github.com:rimadas9878/Assignment01-HTML_CSS_GIT.git" and hit enter
-7.Assignment01-HTML_CSS_GIT folder was created on my local
-8.Then navigated to "Horiseon" folder
-9.Added the Horiseon folder which contains all the files (index.html,style.css and images)
-10.Checked the status with git status which shows that there are new files
-11.Typed git add .
-12.Then git commit -m "Uploaded the files to repository"
-13.Then typed git push 
-14.And then again checked status with git status.
+<h3>GIT</h3>
+<ol>
+<li>Logged into GitHub</li>
+<li>Clicked on New</li>
+<li>Created a repository "Assignment01-HTML_CSS_GIT"</li>
+<li>Clicked on Code and copied the SSH key</li>
+<li>Opened Terminal and using cd command Navigated to the path where I wanted to clone the repository</li>
+<li>Then typed, "git clone git@github.com:rimadas9878/Assignment01-HTML_CSS_GIT.git" and hit enter</li>
+<li>Assignment01-HTML_CSS_GIT folder was created on my local</li>
+<li>Then navigated to "Horiseon" folder</li>
+<li>Added the Horiseon folder which contains all the files (index.html,style.css and images)</li>
+<li>Checked the status with git status which shows that there are new files</li>
+<li>Typed git add .</li>
+<li>Then git commit -m "Uploaded the files to repository"</li>
+<li>Then typed git push </li>
+<li>And then again checked status with git status.</li>
+</ol>
 
+<h3>HTML</h3>
+<ol>
+<li>The title of the page was updated as “Horiseon: Social Solution Services”</li>
+<li>Added a favicon</li>
+<li>Added the missing header tag header</li>
+<li>Changed the span tag to h1 as span tag is non-Semantic as per w3school</li>
+<li>Added a class to the navigation section</li>
+<li>Changed the section tag of navigation to nav</li>
+<li>In the section with class ‘content’, added id to the search-engine-optimization section, click on “search-engine-optimization” to check that it scrolls to an element</li>
+<li>Replaced section tag with article</li>
+<li>Added the alt tag for image</li>
+<li>Replaced the tag section to aside for the right section </li>
+</ol>
 
-# HTML
-1.The title of the page was updated as “Horiseon: Social Solution Services”
-2.Added a favicon
-3.Added the missing header tag <header>
-4.Changed the span tag to <h1> as span tag is non-Semantic as per w3school
-5.Added a class to the navigation section
-6.Changed the section tag of navigation to nav
-7.In the section with class ‘content’, added id to the search-engine-optimization section, click on “search-engine-optimization” to check that it scrolls to an element
-8.Replaced section tag with article
-9.Added the alt tag for image
-10.Replaced the tag <section> to <aside> for the right section 
-
-# CSS
-1.Deleted the header h1 tags
-2.Changed the name headerlinks from header div
-3.Deleted the properties added for ul and li as deleted the ul and li tags from html as I replaced them in html page
-4.Changed the padding of “benefits” so that the grid aligns with the content grid
-5.Combined all the sections of Search Engine Optimization, Online Reputation Management and Social Media Marketing, under single block
+<h3>CSS</h3>
+<ol>
+<li>Deleted the header h1 tags</li>
+<li>Changed the name headerlinks from header div</li>
+<li>Deleted the properties added for ul and li as deleted the ul and li tags from html as I replaced them in html page</li>
+<li>Changed the padding of “benefits” so that the grid aligns with the content grid</li>
+<li>Combined all the sections of Search Engine Optimization, Online Reputation Management and Social Media Marketing, under single block</li>
+</ol>
