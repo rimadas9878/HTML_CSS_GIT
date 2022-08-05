@@ -1,7 +1,8 @@
-# Assignment01-HTML_CSS_GIT
+# README
 
-Download the entire Horiseon folder and click on index.html to view the page 
-View the style.css page to view the changes made in css file
+Challenge #1 was about changing the non-semantic elements to semantic HTML elements, the elements follow a logical independent styling, adding the alt attributes for img tag, adding the heading attributes in sequential order, and add a descriptive title
+
+
 
 # GIT
 1.Logged into GitHub
