@@ -15,7 +15,7 @@
 <p>https://github.com/rimadas9878/Assignment01-HTML_CSS_GIT</p>
 
 
-<h2>The following image shows the web application's appearance and functionality:</h2>
+<h2>The following image shows the web applications appearance and functionality:</h2>
 <img src="./assets/images/01-HTML-CSS-GIT.png" alt="HTML-CSS-GIT"/>
 
 
