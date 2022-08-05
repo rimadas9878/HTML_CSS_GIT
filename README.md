@@ -1,8 +1,25 @@
-<h1>Assignment01-HTML_CSS_GIT<h1>
+<h3># Description<h3>
+<p>This assignment is about making changes in the html file. The changes to be done were</p>
+<ol>
+<li>Change non-Semantic tags to Semantic tags</li>
+<li>The elements should follow a logical structure</li>
+<li>All the images tags should have alt attributes added</li>
+<li>The heading should follow sequential order</li>
+<li>The title should be descriptive</li>
+</ol>
 
-<p>Download the entire Horiseon folder and click on index.html to view the page.</p>
-<p>View the style.css page to view the changes made in css file.</p>
+<h3># Website</h3>
+<p>https://rimadas9878.github.io/Assignment01-HTML_CSS_GIT/</p>
 
+<h3># GIT Url</h3>
+<p>https://github.com/rimadas9878/Assignment01-HTML_CSS_GIT</p>
+
+
+<h2>The following image shows the web application's appearance and functionality:</h2>
+<img src="./assets/images/01-HTML-CSS-GIT.png" alt="HTML-CSS-GIT"/>
+
+
+<h2>Steps done to push the files to git</h2>
 <h3>GIT</h3>
 <ol>
 <li>Logged into GitHub</li>
@@ -21,6 +38,7 @@
 <li>And then again checked status with git status.</li>
 </ol>
 
+<h2>The changes done in the html and css files are listed below</h2>
 <h3>HTML</h3>
 <ol>
 <li>The title of the page was updated as “Horiseon: Social Solution Services”</li>
